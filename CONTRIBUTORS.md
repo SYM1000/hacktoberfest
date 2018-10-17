@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Santiago Yeomans](https://github.com/SYM1000)
+- Place: Guadalajaray, Jalisco, Mexico
+- Bio: CS student
+- GitHub: [Santiago Yeomans](https://github.com/SYM1000)
